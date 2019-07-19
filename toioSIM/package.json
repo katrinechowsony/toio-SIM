@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "version": "0.1.0",
+  "name": "toio-sim",
+  "description": "SIE Hackathon Summer 2019 Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Katrine Chow <Katrine.Chow@sony.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@toio/device-core-cube": "*",
+    "@toio/scanner": "*",
+    "keypress": "^0.2.1"
+  }
+}
